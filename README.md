@@ -1,11 +1,11 @@
 YAFI
 ====
 
-Yet Another Fancy Interjector
+### Yet Another Fancy Interjector
 
 *or,*
 
-You Ash Fow It
+### You Ash Fow It
 
 Swear with five-dollar college words. 
 
