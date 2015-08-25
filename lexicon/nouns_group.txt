@@ -1,0 +1,13 @@
+mob
+pack
+gaggle
+herd
+throng
+swarm
+mess
+crowd
+gang
+flock
+band
+bunch
+troop
